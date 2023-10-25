@@ -1,2 +1,2 @@
 # WebConference
-Website para treinamento de um projeto de conferencia online.
+Website para treinamento de um projeto de conferencia online, então vamos lá.
